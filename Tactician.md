@@ -194,19 +194,31 @@ Beginning at 5th level, you can attack twice, instead of once, whenever you take
 # Tactician Creeds
 ---
 ## Dread Conqueror
-
-**No quarter!**
-Savage attacker feat
-
-**Dragon fear?**
+- Spells: necromancy, fear, damage, curses
+- No quarter! - damage shout
+- Savage attacker feat
+- Dragon fear?
+- Intimidation proficiency
 
 ## Guerilla Leader
+- Spells: ranger stuff, maybe some illusion?
+- Sneak Attack shout
+- Stealth stuff
+- Cunning action stuff
+- Initiative bonus?
 
 ## Frontline Commander
+- Spells: Paladin, bard, ranger stuff?
+- Tankiness shout?
+- 
 
 ## Magister
+- Spells: wizard stuff
+- Focus your power! - Spell DC / damage shout
 
 ## Savior
+- Spells: cleric stuff
+- 
 
 ---
 # Tactician spell list
