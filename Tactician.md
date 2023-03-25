@@ -121,7 +121,7 @@ You call to allies to prepare themselves to bring all their strength to bear. Fo
 Your shout reaches a deep place in the psyche of your allies, steadying their beaten nerves. Affected creatures recover from the **stunned** or the **incapacitated** condition (but not **paralyzed**), if they have either of them.
 
 **Snap out of it!**
-Your shout brings misdirected allies back to reality. Affected creatures recover from the **charmed**, **confused**, or **frightened** conditions, if they have any of them.
+Your shout brings misdirected allies back to reality. Affected creatures recover from the **charmed**, **confused**, and **frightened** conditions, if they have any of them.
 
 **Strike as one!**
 You rally your allies into synchronizing their strikes. Until the beginning of your next turn, affected creatures can use their reaction to make a melee attack against a creature within range whenever an ally successfull hits that creature with an attack.
@@ -200,6 +200,19 @@ Beginning at 5th level, you can attack twice, instead of once, whenever you take
 - Dragon fear?
 - Intimidation proficiency
 
+### Creed Spells
+*3rd level Dread Conqueror feature*
+
+Starting at 3rd level when you select your creed, you gain access to additional spells that you can choose from when selecting new spells to learn. 
+
+| Tactician level | Spells |
+| :---: | :--- |
+| 3rd | |
+| 5th | |
+| 9th | |
+| 13th | |
+| 17th | |
+
 ## Guerilla Leader
 - Spells: ranger stuff, maybe some illusion?
 - Sneak Attack shout
@@ -207,18 +220,70 @@ Beginning at 5th level, you can attack twice, instead of once, whenever you take
 - Cunning action stuff
 - Initiative bonus?
 
+### Creed Spells
+*3rd level Guerilla Leader feature*
+
+Starting at 3rd level when you select your creed, you gain access to additional spells that you can choose from when selecting new spells to learn. 
+
+| Tactician level | Spells |
+| :---: | :--- |
+| 3rd | *hunter's mark, snare, zephyr strike* |
+| 5th | *locate object, pass without trace, spike growth* |
+| 9th | *major image, nondetection, wind wall* |
+| 13th | |
+| 17th | |
+
+
 ## Frontline Commander
 - Spells: Paladin, bard, ranger stuff?
 - Tankiness shout?
 - 
 
+### Creed Spells
+*3rd level Frontline Commander feature*
+
+Starting at 3rd level when you select your creed, you gain access to additional spells that you can choose from when selecting new spells to learn. 
+
+| Tactician level | Spells |
+| :---: | :--- |
+| 3rd | |
+| 5th | |
+| 9th | |
+| 13th | |
+| 17th | |
+
 ## Magister
 - Spells: wizard stuff
 - Focus your power! - Spell DC / damage shout
 
+### Creed Spells
+*3rd level Magister feature*
+
+Starting at 3rd level when you select your creed, you gain access to additional spells that you can choose from when selecting new spells to learn. 
+
+| Tactician level | Spells |
+| :---: | :--- |
+| 3rd | |
+| 5th | |
+| 9th | |
+| 13th | |
+| 17th | |
+
 ## Savior
 - Spells: cleric stuff
-- 
+
+### Creed Spells
+*3rd level Savior feature*
+
+Starting at 3rd level when you select your creed, you gain access to additional spells that you can choose from when selecting new spells to learn. 
+
+| Tactician level | Spells |
+| :---: | :--- |
+| 3rd | |
+| 5th | |
+| 9th | |
+| 13th | |
+| 17th | |
 
 ---
 # Tactician spell list
