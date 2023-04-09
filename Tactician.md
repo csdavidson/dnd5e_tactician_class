@@ -8,7 +8,7 @@ Wherever there is conflict, or where a group strives together for a common goal,
 | 3     | +2                | Tactician Creed                  | 3              | 1              | 3            | 3   | —   | —   | —   | —   |
 | 4     | +2                | Ability Score Increase           | 3              | 1              | 3            | 3   | —   | —   | —   | —   |
 | 5     | +3                | Calculated Strikes, Extra Attack | 4              | 1              | 4            | 4   | 2   | —   | —   | —   |
-| 6     | +3                |                                  | 4              | 1              | 4            | 4   | 2   | —   | —   | —   |
+| 6     | +3                | Dauntless                        | 4              | 1              | 4            | 4   | 2   | —   | —   | —   |
 | 7     | +3                | Tactician Creed Feature          | 5              | 2              | 5            | 4   | 3   | —   | —   | —   |
 | 8     | +3                | Ability Score Increase           | 5              | 2              | 5            | 4   | 3   | —   | —   | —   |
 | 9     | +4                | —                                | 6              | 2              | 6            | 4   | 3   | 2   | —   | —   |
@@ -140,7 +140,7 @@ You urge your allies to end the battle decisively. For up to 1 minute or until t
 
 Tacticians typically surround themselves with other characters, retainers, soldiers, and hirelings who can help them achieve their objectives. In game terms, tacticians can accommodate sidekicks (as in *Tasha's Cauldron of Everything*) and other characters whom they can issue orders to outside of combat and command directly in combat, as long as they remain allies.
 
-The number of such characters who can follow a tactician begins with 1 at 2nd level, and increases by 1 with every 5 levels thereafter of the tactician (1 at 2nd level, 2 at 7th, 3 at 12th, and 4 at 17th). It's suggested that these characters, if using the Sidekick rules from *Tasha's Cauldron of Everything*, begin at a level roughly 3/4 or 2/3 that of the tactician they follow. It's up to the Game Master to  decide and enact how these followers gain levels.
+The number of such characters who can follow a tactician begins with 1 at 2nd level, and increases by 1 with every 5 levels thereafter of the tactician (1 at 2nd level, 2 at 7th, 3 at 12th, and 4 at 17th). It's suggested that these characters, if using the Sidekick rules from *Tasha's Cauldron of Everything*, begin at a level roughly 3/4 or 2/3 that of the tactician they follow. It's up to the Game Master to  decide and enact how these followers gain levels. Additionally, if using the Sidekick rules from *Tasha's Cauldron of Everything*, a tactician's first sidekick must be of the Warrior archetype. Access to followers of other specific Sidekick archetypes is granted as a feature of the various Tactician Creeds.
 
 It's important that the use of this class, and this feature, in particular involve a conversation with the Game Master about how such followers are gained and utilized by tactician characters, as their impact on some game mechanics have potential to be abused. On the other side of the coin, a player without their expectations set around how well they can command or control a direct follower might find it frustrating if their GM doesn't allow them to have or control access to this class feature in the way they wanted.
 
@@ -159,7 +159,7 @@ You know two 1st-level spells of your choice from the tactician spell list.
 
 The Spells Known column of the Tactician table shows when you learn more tactician spells of your choice. Each of these spells must be of a level for which you have spell slots. For instance, when you reach 5th level in this class, you can learn one new spell of 1st or 2nd level.
 
-Additionally, when you gain a level in this class, you can choose one of the tactician spells you know and replace it with another spell from the ranger spell list, which also must be of a level for which you have spell slots.
+Additionally, when you gain a level in this class, you can choose one of the tactician spells you know and replace it with another spell from the tactician spell list, which also must be of a level for which you have spell slots.
 
 #### Spellcasting Ability
 
@@ -188,17 +188,28 @@ When you attack with a weapon with the *finesse* trait, you can use your Intelli
 
 ## Extra Attack
 *5th level Tactician Feature*
+
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the [Attack](https://www.dndbeyond.com/compendium/rules/basic-rules/combat#Attack)action on your turn.
+
+## Dauntless
+*6th level Tactician Feature*
+
+When you reach 6th level, your commitment to your allies and followers steels your nerves. You become immune to the *frightened* condition.
 
 ---
 # Tactician Creeds
 ---
 ## Dread Conqueror
-- Spells: necromancy, fear, damage, curses
-- No quarter! - damage shout
-- Savage attacker feat
-- Dragon fear?
-- Intimidation proficiency
+Feared commanders of elite forces, dread conquerors terrorize their foes on the battlefield with their colossal might. These tacticians are often found single-mindedly pursuing victory for their own ends and at any cost. While they command respect and loyalty as readily as any other, they wield the fear inspired by their ruthlessness as easily as any blade.
+
+**Dread Conqueror Progression**
+
+| Tactician level | Spells |
+| :---: | :--- |
+| 3rd | Creed Spells, Creed Command, Heavy armor proficiency |
+| 7th | Conqueror's Right Hand, Imposing Presence |
+| 11th | Grim Aspect |
+| 15th | Conqueror's Gaze |
 
 ### Creed Spells
 *3rd level Dread Conqueror feature*
@@ -207,15 +218,55 @@ Starting at 3rd level when you select your creed, you gain access to additional 
 
 | Tactician level | Spells |
 | :---: | :--- |
-| 3rd | |
-| 5th | |
-| 9th | |
-| 13th | |
-| 17th | |
+| 3rd | *bane, cause fear, wrathful smite* |
+| 5th | *blindness/deafness, phantasmal force, shadow blade* |
+| 9th | *bestow curse, fear, vampiric touch* |
+| 13th | *blight, phantasmal killer, shadow of moil* |
+| 17th | *banishing smite, contagion, enervation* |
 
+### Creed Command
+*3rd level Dread Conqueror feature*
+
+At 3rd level, you gain an additional command shout unique to your creed, which does not count against your number of known command shouts.
+
+**No quarter!**
+You command your allies to strike with extreme prejudice. For up to 1 minute or until they take advange of this bonus, affected creatures deal maximum damage with the next weapon attack or cantrip they land on an enemy.
+
+### Heavy armor proficiency
+*3rd level Dread Conqueror feature*
+
+At 3rd level you gain proficiency with heavy armor.
+
+### Conqueror's Right Hand
+*7th level Dread Conqueror feature*
+
+At 7th level, you gain access to another class of Sidekick: the Spellcaster. Specifically, you can recruit Spellcasters with the Prodigy spellcasting feature to fill open Sidekick slots.
+
+### Imposing Presence
+*7th level Dread Conqueror feature*
+
+At 7th level you gain proficiency in the Intimidation skill. If you are already proficient in it, you instead gain expertise in the skill, adding twice your Proficiency Bonus to Intimidation skill checks.
+
+### Grim Aspect
+*11th level Dread Conqueror feature*
+
+At 11th level meeker foes become terrorized simply by being close to you.
+
+Each creature of your choice that is within 30 feet of you and aware of you must succeed on a DC 12 Wisdom saving throw or become *frightened* for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the your Grim Aspect for the next 24 hours.
+
+### Conqueror's Gaze
+*15th level Dread Conqueror feature*
+
+Monstrous determination carried in your gaze pierces into the soul of your foes. As a bonus action, you target one creature you can see within 30 feet of yourself and make an Intimidation check opposed by the target's Wisdom saving throw. On a failure, the target is *paralyzed* until you or one of your allies deal damage to it, or until the end of your next turn.
+
+You can use this ability a number of times equal to your Proficiency Bonus, and regain all uses of it upon completing a short or a long rest.
+
+---
 ## Guerilla Leader
+description goes here
+
 - Spells: ranger stuff, maybe some illusion?
-- Sneak Attack shout
+- Sneak Attack shout "hit their weak point!"
 - Stealth stuff
 - Cunning action stuff
 - Initiative bonus?
@@ -230,11 +281,13 @@ Starting at 3rd level when you select your creed, you gain access to additional 
 | 3rd | *hunter's mark, snare, zephyr strike* |
 | 5th | *locate object, pass without trace, spike growth* |
 | 9th | *major image, nondetection, wind wall* |
-| 13th | |
-| 17th | |
+| 13th | *fabricate, grasping vine, hallucinatory terrain* |
+| 17th | *passwall, steel wind strike, swift quiver* |
 
-
+---
 ## Frontline Commander
+description goes here 
+
 - Spells: Paladin, bard, ranger stuff?
 - Tankiness shout?
 - 
@@ -246,14 +299,16 @@ Starting at 3rd level when you select your creed, you gain access to additional 
 
 | Tactician level | Spells |
 | :---: | :--- |
-| 3rd | |
-| 5th | |
-| 9th | |
-| 13th | |
-| 17th | |
+| 3rd | *armor of agathys, shield, thunderous smite* |
+| 5th | *cloud of daggers, flame blade, protection from poison* |
+| 9th | *blinding smite, protection from energy, tiny hut* |
+| 13th | *resilient sphere, staggering smite, stoneskin* |
+| 17th | *circle of power, destructive wave, wall of force* |
 
+---
 ## Magister
-- Spells: wizard stuff
+description goes here
+
 - Focus your power! - Spell DC / damage shout
 
 ### Creed Spells
@@ -263,14 +318,15 @@ Starting at 3rd level when you select your creed, you gain access to additional 
 
 | Tactician level | Spells |
 | :---: | :--- |
-| 3rd | |
-| 5th | |
-| 9th | |
-| 13th | |
-| 17th | |
+| 3rd | *absorb elements, chromatic orb, detect magic* |
+| 5th | *dragon's breath, see invisibility, vortex warp* |
+| 9th | *counterspell, fly, melf's minute meteors* |
+| 13th | *dimension door, elemental bane, polymorph* |
+| 17th | *arcane hand, conjure elemental, teleportation circle* |
 
+---
 ## Savior
-- Spells: cleric stuff
+description goes here
 
 ### Creed Spells
 *3rd level Savior feature*
@@ -279,22 +335,26 @@ Starting at 3rd level when you select your creed, you gain access to additional 
 
 | Tactician level | Spells |
 | :---: | :--- |
-| 3rd | |
-| 5th | |
-| 9th | |
-| 13th | |
-| 17th | |
+| 3rd | *bless, guiding bolt, shield of faith* |
+| 5th | *gentle repose, prayer of healing, spiritual weapon* |
+| 9th | *aura of vitality, revivify, spirit guardians* |
+| 13th | *aura of life, banishment, guardian of faith* |
+| 17th | *dawn, hallow, holy weapon* |
 
 ---
 # Tactician spell list
 ---
 ## 1st level spells
 *Alarm, ceremony, command, compelled duel, comprehend languages, detect poison and disease, expeditious retreat, gift of alacrity, heroism, identify, jump, longstrider, protection from evil and good*
+
 ## 2nd level spells
-*Aid, calm emotions, cordon of arrows, detect thoughts, enhance ability, enthrall, find steed, find traps, fortune's favor, gift of gab, hold person, knock, lesser restoration, magic weapon, mind spike, silence, suggestion, warding bond, zone of truth*
+*Aid, arcane lock, calm emotions, cordon of arrows, detect thoughts, enhance ability, enthrall, find steed, find traps, fortune's favor, gift of gab, hold person, knock, lesser restoration, magic weapon, mind spike, silence, suggestion, warding bond, zone of truth*
+
 ## 3rd level spells
-*Conjure barrage, crusader's mantle, dispel magic, elemental weapon, haste, motivational speech, remove curse, tongues*
+*Beacon of hope, conjure barrage, crusader's mantle, dispel magic, elemental weapon, haste, motivational speech, remove curse, sending, tongues*
+
 ## 4th level spells
-*Aura of purity, charm monster, compulsion, confusion, divination, dominate beast, faithful hound, find greater steed, freedom of movement, galder's speedy courier, locate creature, private sanctum*
+*Aura of purity, charm monster, compulsion, confusion, death ward, divination, dominate beast, faithful hound, find greater steed, freedom of movement, galder's speedy courier, locate creature, private sanctum*
+
 ## 5th level spells
 *Conjure volley, dispel evil and good, dominate person, geas, greater restoration, hold monster, legend lore, mislead, modify memory, seeming, skill empowerment, telepathic bond*
