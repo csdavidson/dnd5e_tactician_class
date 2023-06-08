@@ -1,6 +1,7 @@
 Wherever there is conflict, or where a group strives together for a common goal, they follow leaders whose perspective enables them to best apply their efforts. On the frontlines of the battlefield, frontier or the dungeon, these are the tacticians. Their quick thinking, timely commands, and trusted retainers are a vital asset for any group who finds their mettle tested.
 
 ## Tactician Advancement
+
 | Level | Proficiency Bonus | Features                         | Command Shouts | Sidekick Slots | Spells Known | 1st | 2nd | 3rd | 4th | 5th |
 |-------|-------------------|----------------------------------|----------------|----------------|--------------|-----|-----|-----|-----|-----|
 | 1     | +2                | Fighting Style, Command Shouts   | 2              | —              | —            | —   | —   | —   | —   | —   |
@@ -12,7 +13,7 @@ Wherever there is conflict, or where a group strives together for a common goal,
 | 7     | +3                | Tactician Creed Feature          | 5              | 2              | 5            | 4   | 3   | —   | —   | —   |
 | 8     | +3                | Ability Score Increase           | 5              | 2              | 5            | 4   | 3   | —   | —   | —   |
 | 9     | +4                | —                                | 6              | 2              | 6            | 4   | 3   | 2   | —   | —   |
-| 10    | +4                |                                  | 6              | 2              | 6            | 4   | 3   | 2   | —   | —   |
+| 10    | +4                | Maestro                          | 6              | 2              | 6            | 4   | 3   | 2   | —   | —   |
 | 11    | +4                | Tactician Creed Feature          | 7              | 2              | 7            | 4   | 3   | 3   | —   | —   |
 | 12    | +4                | Ability Score Increase           | 7              | 3              | 7            | 4   | 3   | 3   | —   | —   |
 | 13    | +5                | —                                | 8              | 3              | 8            | 4   | 3   | 3   | 1   | —   |
@@ -196,9 +197,15 @@ Beginning at 5th level, you can attack twice, instead of once, whenever you take
 
 When you reach 6th level, your commitment to your allies and followers steels your nerves. You become immune to the *frightened* condition.
 
+## Maestro
+*10th level Tactician Feature*
+
+When you reach 10th level, your heightened awareness in combat and other tight situations allows you to direct allies to act beyond their normal limits. As a bonus action on your turn, you can direct an ally within 60 feet whose presence you are aware of to take any of the following actions: attack, cast a cantrip they know, dodge, disengage, hide, help, ready (though not to cast any spells of 1st level or higher), search, or use an object. That ally must consent to the action you direct them to perform, and doing so consumes their reaction.
+
 ---
 # Tactician Creeds
 ---
+
 ## Dread Conqueror
 Feared commanders of elite forces, dread conquerors terrorize their foes on the battlefield with their colossal might. These tacticians are often found single-mindedly pursuing victory for their own ends and at any cost. While they command respect and loyalty as readily as any other, they wield the fear inspired by their ruthlessness as easily as any blade.
 
@@ -230,7 +237,7 @@ Starting at 3rd level when you select your creed, you gain access to additional 
 At 3rd level, you gain an additional command shout unique to your creed, which does not count against your number of known command shouts.
 
 **No quarter!**
-You command your allies to strike with extreme prejudice. For up to 1 minute or until they take advange of this bonus, affected creatures deal maximum damage with the next weapon attack or cantrip they land on an enemy.
+You command your allies to strike with extreme prejudice. For up to 1 minute or until they take advantage of this bonus, affected creatures deal maximum damage with the next weapon attack or cantrip they land on an enemy.
 
 ### Heavy armor proficiency
 *3rd level Dread Conqueror feature*
@@ -262,6 +269,7 @@ Monstrous determination carried in your gaze pierces into the soul of your foes.
 You can use this ability a number of times equal to your Proficiency Bonus, and regain all uses of it upon completing a short or a long rest.
 
 ---
+
 ## Guerilla Leader
 description goes here
 
@@ -282,7 +290,35 @@ Starting at 3rd level when you select your creed, you gain access to additional 
 | 5th | *locate object, pass without trace, spike growth* |
 | 9th | *major image, nondetection, wind wall* |
 | 13th | *fabricate, grasping vine, hallucinatory terrain* |
-| 17th | *passwall, steel wind strike, swift quiver* |
+| 17th | *passwall, seeming, swift quiver* |
+
+### Creed Command
+*3rd level Guerilla Leader feature*
+
+At 3rd level, you gain an additional command shout unique to your creed, which does not count against your number of known command shouts.
+
+**Hit their weak point!**
+You command your allies to strike their foes where they are vulnerable. For up to 1 minute or until they take advantage of this bonus, affected creatures gain the Sneak Attack feature (the same as the Rogue class feature) and their sneak attack dice are a number of d6 equal to half your Proficiency Bonus, rounded up.
+
+### Outlaw's Arsenal
+*3rd level Guerilla Leader feature*
+
+To lead your allies through shadow and danger you need a particular set of skills to open unorthodox paths and set traps for your foes. You gain proficiency in thieves' tools, stealth, and with traps.
+
+### Ambush Readiness
+*7th level Guerilla Leader feature*
+
+Your rigorous training and preparation prepares you and your allies to be prepared both against and to launch your own ambushes at any moment. You and allies within 15 feet of you can't be surprised, and gain a bonus to Initiative rolls equal to your Proficiency Bonus.
+
+### feature
+*11th level Guerilla Leader feature*
+
+
+
+### feature
+*15th level Guerilla Leader feature*
+
+
 
 ---
 ## Frontline Commander
@@ -305,6 +341,12 @@ Starting at 3rd level when you select your creed, you gain access to additional 
 | 13th | *resilient sphere, staggering smite, stoneskin* |
 | 17th | *circle of power, destructive wave, wall of force* |
 
+### Heavy armor proficiency
+
+_3rd level Dread Conqueror feature_
+
+At 3rd level you gain proficiency with heavy armor.
+
 ---
 ## Magister
 description goes here
@@ -324,6 +366,11 @@ Starting at 3rd level when you select your creed, you gain access to additional 
 | 13th | *dimension door, elemental bane, polymorph* |
 | 17th | *arcane hand, conjure elemental, teleportation circle* |
 
+### Cantrips
+*3rd level Magister feature*
+
+You learn three cantrips from the wizard spell list. They count as tactician spells for you, and Intelligence is your spellcasting ability for them.
+
 ---
 ## Savior
 description goes here
@@ -341,6 +388,11 @@ Starting at 3rd level when you select your creed, you gain access to additional 
 | 13th | *aura of life, banishment, guardian of faith* |
 | 17th | *dawn, hallow, holy weapon* |
 
+### Cantrips
+*3rd level Magister feature*
+
+You learn three cantrips from the cleric spell list. They count as tactician spells for you, and Intelligence is your spellcasting ability for them.
+
 ---
 # Tactician spell list
 ---
@@ -357,4 +409,4 @@ Starting at 3rd level when you select your creed, you gain access to additional 
 *Aura of purity, charm monster, compulsion, confusion, death ward, divination, dominate beast, faithful hound, find greater steed, freedom of movement, galder's speedy courier, locate creature, private sanctum*
 
 ## 5th level spells
-*Conjure volley, dispel evil and good, dominate person, geas, greater restoration, hold monster, legend lore, mislead, modify memory, seeming, skill empowerment, telepathic bond*
+*Conjure volley, dispel evil and good, dominate person, geas, greater restoration, hold monster, legend lore, mislead, modify memory, skill empowerment, steel wind strike, telepathic bond*
