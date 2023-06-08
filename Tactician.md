@@ -271,13 +271,8 @@ You can use this ability a number of times equal to your Proficiency Bonus, and 
 ---
 
 ## Guerilla Leader
-description goes here
 
-- Spells: ranger stuff, maybe some illusion?
-- Sneak Attack shout "hit their weak point!"
-- Stealth stuff
-- Cunning action stuff
-- Initiative bonus?
+DESCRIPTION GOES HERE
 
 ### Creed Spells
 *3rd level Guerilla Leader feature*
@@ -310,15 +305,17 @@ To lead your allies through shadow and danger you need a particular set of skill
 
 Your rigorous training and preparation prepares you and your allies to be prepared both against and to launch your own ambushes at any moment. You and allies within 15 feet of you can't be surprised, and gain a bonus to Initiative rolls equal to your Proficiency Bonus.
 
-### feature
+### Evasive Tactics
 *11th level Guerilla Leader feature*
 
+Allies you direct in combat engage carefully so as to avoid taking unnecessary risks. Whenever you use any of your Command Shouts, affected allies also gain the Uncanny Dodge feature (the same as the Rogue class feature) for up to 1 minute or until they take advantage of this bonus.
 
-
-### feature
+### Leading Strike
 *15th level Guerilla Leader feature*
 
+You lead by example to bring down priority targets. When you hit a creature with an attack, you can choose to mark it as a target for your allies until the beginning of your next turn. Allies hitting the marked target with weapons or spells deal an additional amount of damage equal to your Proficiency Bonus. That additional damage is of the same type as that dealt by the weapon or spell used.
 
+You can use this ability a number of times equal to your Proficiency Bonus, and regain all uses of is upon completing a long rest.
 
 ---
 ## Frontline Commander
@@ -342,8 +339,7 @@ Starting at 3rd level when you select your creed, you gain access to additional 
 | 17th | *circle of power, destructive wave, wall of force* |
 
 ### Heavy armor proficiency
-
-_3rd level Dread Conqueror feature_
+*3rd level Frontline Commander feature*
 
 At 3rd level you gain proficiency with heavy armor.
 
