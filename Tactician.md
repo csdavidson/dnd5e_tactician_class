@@ -315,7 +315,7 @@ Allies you direct in combat engage carefully so as to avoid taking unnecessary r
 
 You lead by example to bring down priority targets. When you hit a creature with an attack, you can choose to mark it as a target for your allies until the beginning of your next turn. Allies hitting the marked target with weapons or spells deal an additional amount of damage equal to your Proficiency Bonus. That additional damage is of the same type as that dealt by the weapon or spell used.
 
-You can use this ability a number of times equal to your Proficiency Bonus, and regain all uses of is upon completing a long rest.
+You can use this ability a number of times equal to your Proficiency Bonus, and regain all uses of it upon completing a long rest.
 
 ---
 ## Frontline Commander
