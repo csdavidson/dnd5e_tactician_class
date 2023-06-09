@@ -13,17 +13,17 @@ Wherever there is conflict, or where a group strives together for a common goal,
 | 7     | +3                | Tactician Creed Feature          | 5              | 2              | 5            | 4   | 3   | —   | —   | —   |
 | 8     | +3                | Ability Score Increase           | 5              | 2              | 5            | 4   | 3   | —   | —   | —   |
 | 9     | +4                | —                                | 6              | 2              | 6            | 4   | 3   | 2   | —   | —   |
-| 10    | +4                | Maestro                          | 6              | 2              | 6            | 4   | 3   | 2   | —   | —   |
+| 10    | +4                | Maestro, Cadre Training          | 6              | 2              | 6            | 4   | 3   | 2   | —   | —   |
 | 11    | +4                | Tactician Creed Feature          | 7              | 2              | 7            | 4   | 3   | 3   | —   | —   |
 | 12    | +4                | Ability Score Increase           | 7              | 3              | 7            | 4   | 3   | 3   | —   | —   |
 | 13    | +5                | —                                | 8              | 3              | 8            | 4   | 3   | 3   | 1   | —   |
-| 14    | +5                |                                  | 8              | 3              | 8            | 4   | 3   | 3   | 1   | —   |
+| 14    | +5                | Cadre Training (2)               | 8              | 3              | 8            | 4   | 3   | 3   | 1   | —   |
 | 15    | +5                | Tactician Creed Feature          | 9              | 3              | 9            | 4   | 3   | 3   | 2   | —   |
 | 16    | +5                | Ability Score Increase           | 9              | 4              | 9            | 4   | 3   | 3   | 2   | —   |
 | 17    | +6                | —                                | 10             | 4              | 10           | 4   | 3   | 3   | 3   | 1   |
-| 18    | +6                |                                  | 10             | 4              | 10           | 4   | 3   | 3   | 3   | 1   |
+| 18    | +6                | Cadre Training (3)               | 10             | 4              | 10           | 4   | 3   | 3   | 3   | 1   |
 | 19    | +6                | Ability Score Increase           | 11             | 4              | 11           | 4   | 3   | 3   | 3   | 2   |
-| 20    | +6                |                                  | 11             | 4              | 11           | 4   | 3   | 3   | 3   | 2   |
+| 20    | +6                | Coordinated Superiority          | 11             | 4              | 11           | 4   | 3   | 3   | 3   | 2   |
 
 ## Class Features
 ---
