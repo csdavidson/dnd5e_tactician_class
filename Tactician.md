@@ -17,7 +17,7 @@ Wherever there is conflict, or where a group strives together for a common goal,
 | 11    | +4                | Tactician Creed Feature          | 7              | 2              | 7            | 4   | 3   | 3   | —   | —   |
 | 12    | +4                | Ability Score Increase           | 7              | 3              | 7            | 4   | 3   | 3   | —   | —   |
 | 13    | +5                | —                                | 8              | 3              | 8            | 4   | 3   | 3   | 1   | —   |
-| 14    | +5                | Cadre Training (2)               | 8              | 3              | 8            | 4   | 3   | 3   | 1   | —   |
+| 14    | +5                | Adaptable Commander, Cadre Training (2) | 8              | 3              | 8            | 4   | 3   | 3   | 1   | —   |
 | 15    | +5                | Tactician Creed Feature          | 9              | 3              | 9            | 4   | 3   | 3   | 2   | —   |
 | 16    | +5                | Ability Score Increase           | 9              | 4              | 9            | 4   | 3   | 3   | 2   | —   |
 | 17    | +6                | —                                | 10             | 4              | 10           | 4   | 3   | 3   | 3   | 1   |
@@ -131,7 +131,7 @@ You rally your allies into synchronizing their strikes. Until the beginning of y
 You guide your allies to work together to time their attacks against their opponents. For 1 minute, affected creatures gain the benefits of the **pack tactics** ability (the same as on the *Wolf* stat block).
 
 **Take aim!**
-You direct allies launching ranged attacks to hone their focus. For up to 1 minute or until they take advange of this bonus, affected creatures can choose to reroll up to one damage die rolled as part of a successful ranged attack.
+You direct allies launching ranged attacks to hone their focus. For up to 1 minute or until they take advantage of this bonus, affected creatures can choose to reroll up to one damage die rolled as part of a successful ranged attack.
 
 **Finish it!**
 You urge your allies to end the battle decisively. For up to 1 minute or until they land a critical hit, affected creatures have their critical threat range increased by one. For example, a creature which normally lands a critical hit on a roll of natural 20 would instead land a critical hit on a natural roll of 19-20. A creature which already landed a critical on 19-20 would do so on 18-20, and so on.
@@ -202,6 +202,28 @@ When you reach 6th level, your commitment to your allies and followers steels yo
 
 When you reach 10th level, your heightened awareness in combat and other tight situations allows you to direct allies to act beyond their normal limits. As a bonus action on your turn, you can direct an ally within 60 feet whose presence you are aware of to take any of the following actions: attack, cast a cantrip they know, dodge, disengage, hide, help, ready (though not to cast any spells of 1st level or higher), search, or use an object. That ally must consent to the action you direct them to perform, and doing so consumes their reaction.
 
+## Cadre Training
+*10th, 14th, and 18th level Tactician Feature*
+
+When you reach 10th level, continued training with your sidekick followers allows you to dedicate that training to specific talents in order to make those companions more effective and enable specialized tactics. The next time you complete a long rest, you may have one of your sidekick followers gain a feat that they meet the prerequisites for.
+
+You may have another sidekick follower gain a feat that they meet the prerequisites for again when you reach level 14 in this class, and again at level 18. Each sidekick follower can only gain one feat from this feature. If one of your sidekicks who has gained a feat from this feature dies or leaves your service permanently, you can choose another to gain a feat in replacement for the one that left.
+
+## Adaptable Commander
+*14th level Tactician Feature*
+
+At 14th level, your experience allows you to learn to adapt to the capabilities of your followers, regardless of what those capabilities are. You become able to recruit and command sidekicks of whichever varieties you haven't already been able to recruit. For example, if you could already recruit warriors and experts, you become able to recruit spellcasters. If you could already recruit warriors and a type of spellcaster, you become able to recruit experts and the other types of spellcaster.
+
+## Coordinated Superiority
+*20th level Tactician Feature*
+
+At the peak of your career as a tactician, you can direct your allies so well that they can perform and coordinate flawlessly for brief windows of time. When you use any of your command shouts, you can choose to activate this ability in addition to that shout's effects. For up to 1 minute or until they take advantage of this bonus, allies affected by your command shout can do one of the following:
+- When missing with an attack roll, choose to turn the roll into a success instead
+- When failing an ability check, skill check, or saving throw, choose to instead succeed in that check or saving throw
+- When causing another creature or object to make a saving throw, choose to have them automatically fail it. In this case the character must decide to use this option before knowing if their target succeeded with its rolled attempt at the saving throw. Legendary resistances can still be expended by creatures that have them to succeed at saving throws in spite of this effect.
+
+You can use this ability twice, and regain all uses of it after completing a long rest.
+
 ---
 # Tactician Creeds
 ---
@@ -214,7 +236,7 @@ Feared commanders of elite forces, dread conquerors terrorize their foes on the 
 | Tactician level | Spells |
 | :---: | :--- |
 | 3rd | Creed Spells, Creed Command, Heavy armor proficiency |
-| 7th | Conqueror's Right Hand, Imposing Presence |
+| 7th | Conqueror's Lieutenants, Imposing Presence |
 | 11th | Grim Aspect |
 | 15th | Conqueror's Gaze |
 
@@ -244,7 +266,7 @@ You command your allies to strike with extreme prejudice. For up to 1 minute or 
 
 At 3rd level you gain proficiency with heavy armor.
 
-### Conqueror's Right Hand
+### Conqueror's Lieutenants
 *7th level Dread Conqueror feature*
 
 At 7th level, you gain access to another class of Sidekick: the Spellcaster. Specifically, you can recruit Spellcasters with the Prodigy spellcasting feature to fill open Sidekick slots.
@@ -274,6 +296,15 @@ You can use this ability a number of times equal to your Proficiency Bonus, and 
 
 DESCRIPTION GOES HERE
 
+**Guerilla Leader Progression**
+
+| Tactician level | Spells |
+| :---: | :--- |
+| 3rd | Creed Spells, Creed Command, Outlaw's Arsenal |
+| 7th | Guerilla Elites, Ambush Readiness |
+| 11th | Evasive Tactics |
+| 15th | Leading Strike |
+
 ### Creed Spells
 *3rd level Guerilla Leader feature*
 
@@ -300,6 +331,11 @@ You command your allies to strike their foes where they are vulnerable. For up t
 
 To lead your allies through shadow and danger you need a particular set of skills to open unorthodox paths and set traps for your foes. You gain proficiency in thieves' tools, stealth, and with traps.
 
+### Guerilla Elites
+*7th level Guerilla Leader feature*
+
+At 7th level, you gain access to another class of Sidekick: the Expert, to fill open Sidekick slots.
+
 ### Ambush Readiness
 *7th level Guerilla Leader feature*
 
@@ -319,11 +355,17 @@ You can use this ability a number of times equal to your Proficiency Bonus, and 
 
 ---
 ## Frontline Commander
+
 description goes here 
 
-- Spells: Paladin, bard, ranger stuff?
-- Tankiness shout?
-- 
+**Frontline Commander Progression**
+
+| Tactician level | Spells |
+| :---: | :--- |
+| 3rd | Creed Spells, Creed Command, Heavy armor proficiency |
+| 7th | Frontline Scouts |
+| 11th |  |
+| 15th |  |
 
 ### Creed Spells
 *3rd level Frontline Commander feature*
@@ -338,16 +380,38 @@ Starting at 3rd level when you select your creed, you gain access to additional 
 | 13th | *resilient sphere, staggering smite, stoneskin* |
 | 17th | *circle of power, destructive wave, wall of force* |
 
+### Creed Command
+*3rd level Guerilla Leader feature*
+
+At 3rd level, you gain an additional command shout unique to your creed, which does not count against your number of known command shouts.
+
+**Brace yourselves!**
+You prepare your allies to resist the onslaught of your foes. For up to 1 minute or until they take advantage of this bonus, affected creatures have resistance to all forms of damage dealt by the next attack, ability, or spell that deals damage to them.
+
 ### Heavy armor proficiency
 *3rd level Frontline Commander feature*
 
 At 3rd level you gain proficiency with heavy armor.
+
+### Frontline Scouts
+*7th level Frontline Commander feature*
+
+At 7th level, you gain access to another class of Sidekick: the Expert, to fill open Sidekick slots.
 
 ---
 ## Magister
 description goes here
 
 - Focus your power! - Spell DC / damage shout
+
+**Magister Progression**
+
+| Tactician level | Spells |
+| :---: | :--- |
+| 3rd | Creed Spells, Creed Command, Cantrips |
+| 7th | Magister's Enforcers |
+| 11th |  |
+| 15th |  |
 
 ### Creed Spells
 *3rd level Magister feature*
@@ -367,9 +431,23 @@ Starting at 3rd level when you select your creed, you gain access to additional 
 
 You learn three cantrips from the wizard spell list. They count as tactician spells for you, and Intelligence is your spellcasting ability for them.
 
+### Magister's Enforcers
+*7th level Magister feature*
+
+At 7th level, you gain access to another class of Sidekick: the Spellcaster. Specifically, you can recruit Spellcasters with the Mage spellcasting feature to fill open Sidekick slots.
+
 ---
 ## Savior
 description goes here
+
+**Savior Progression**
+
+| Tactician level | Spells |
+| :---: | :--- |
+| 3rd | Creed Spells, Creed Command, Cantrips |
+| 7th | Savior's Advisers |
+| 11th |  |
+| 15th |  |
 
 ### Creed Spells
 *3rd level Savior feature*
@@ -388,6 +466,11 @@ Starting at 3rd level when you select your creed, you gain access to additional 
 *3rd level Magister feature*
 
 You learn three cantrips from the cleric spell list. They count as tactician spells for you, and Intelligence is your spellcasting ability for them.
+
+### Savior's Advisers
+*7th level Savior feature*
+
+At 7th level, you gain access to another class of Sidekick: the Spellcaster. Specifically, you can recruit Spellcasters with the Healer spellcasting feature to fill open Sidekick slots.
 
 ---
 # Tactician spell list
