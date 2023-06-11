@@ -112,6 +112,9 @@ You prepare your allies to dodge an incoming area attack. Until the beginning of
 **Charge!**
 You raise the fury in your allies and exhort them to charge the enemy! Affected creatures gain the benefits of the Charger feat for until the beginning of your next turn or until they make an attack enabled by the feat.
 
+**Press the attack!**
+You urge your allies to focus their efforts and strike true against their targets. Until the end of your next turn, affected creatures get a bonus to attack rolls equal to your Proficiency Bonus.
+
 **Hold fast!**
 You demand that your allies cling to their purpose or will to survive and remain focused on the task at hand. For the next minute, affected creatures get a bonus to saving throws made to resist becoming **frightened**, or made to recover from being **frightened**.
 
@@ -131,7 +134,7 @@ You rally your allies into synchronizing their strikes. Until the beginning of y
 You guide your allies to work together to time their attacks against their opponents. For 1 minute, affected creatures gain the benefits of the **pack tactics** ability (the same as on the *Wolf* stat block).
 
 **Take aim!**
-You direct allies launching ranged attacks to hone their focus. For up to 1 minute or until they take advantage of this bonus, affected creatures can choose to reroll up to one damage die rolled as part of a successful ranged attack.
+You direct allies launching ranged attacks to hone their focus. For up to 1 minute or until they take advantage of this bonus, affected creatures can choose to reroll up to one damage die rolled as part of a successful ranged attack (including spells).
 
 **Finish it!**
 You urge your allies to end the battle decisively. For up to 1 minute or until they land a critical hit, affected creatures have their critical threat range increased by one. For example, a creature which normally lands a critical hit on a roll of natural 20 would instead land a critical hit on a natural roll of 19-20. A creature which already landed a critical on 19-20 would do so on 18-20, and so on.
