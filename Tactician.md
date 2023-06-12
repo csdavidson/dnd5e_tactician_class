@@ -133,6 +133,9 @@ You rally your allies into synchronizing their strikes. Until the beginning of y
 **Fight together!**
 You guide your allies to work together to time their attacks against their opponents. For 1 minute, affected creatures gain the benefits of the **pack tactics** ability (the same as on the *Wolf* stat block).
 
+**Shields up!**
+You prepare your allies to protect each other from incoming attacks. For 1 minute, affected creatures gain the benefits of the **Protection** fighting style (the same as the one learnable by the Fighter class).
+
 **Take aim!**
 You direct allies launching ranged attacks to hone their focus. For up to 1 minute or until they take advantage of this bonus, affected creatures can choose to reroll up to one damage die rolled as part of a successful ranged attack (including spells).
 
@@ -366,9 +369,9 @@ description goes here
 | Tactician level | Spells |
 | :---: | :--- |
 | 3rd | Creed Spells, Creed Command, Heavy armor proficiency |
-| 7th | Frontline Scouts |
-| 11th |  |
-| 15th |  |
+| 7th | Combat Maneuvers, Frontline Scouts |
+| 11th | Combat Maneuver Dice, Unwavering Presence |
+| 15th | Combat Maneuver Dice, Will of Steel |
 
 ### Creed Spells
 *3rd level Frontline Commander feature*
@@ -400,6 +403,16 @@ At 3rd level you gain proficiency with heavy armor.
 *7th level Frontline Commander feature*
 
 At 7th level, you gain access to another class of Sidekick: the Expert, to fill open Sidekick slots.
+
+### Combat Maneuvers
+*7th level Frontline Commander feature*
+
+You learn three maneuvers of your choice from among those available to the *Battle Master* archetype in the Fighter class. If a maneuver you use requires your target to make a saving throw to resist the maneuver's effects, the saving throw DC equals `8 + your proficiency bonus + your Intelligence modifier`.
+
+**Superiority Dice**
+You have four superiority dice, which are d8s. A superiority die is expended when you use it. You regain all of your expended superiority dice when you finish a short or long rest.
+
+You gain another superiority die at 11th level and one more at 15th level.
 
 ---
 ## Magister
