@@ -106,6 +106,9 @@ You prepare your allies to engage in combat. For 1 minute, affected creatures ga
 **Take cover!**
 You warn your allies of incoming danger and urge them to seek cover. Affected creatures may expend their reaction, if they have it, to move up to 10 feet to be adjacent to any object, structure, or terrain feature large enough to grant them any amount of cover in any direction.
 
+**On your feet!**
+You call your allies to rise and put aside their weariness. For 1 minute, affected creatures can stand up from being **prone** without using any movement, and they can ignore one point of exhaustion they have.
+
 **Scatter!**
 You prepare your allies to dodge an incoming area attack. Until the beginning of your next turn, affected creatures get a bonus to their Dexterity saving throws equal to your Proficiency Bonus.
 
