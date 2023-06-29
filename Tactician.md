@@ -374,7 +374,7 @@ description goes here
 | 3rd | Creed Spells, Creed Command, Heavy armor proficiency |
 | 7th | Combat Maneuvers, Frontline Scouts |
 | 11th | Combat Maneuver Dice, Unwavering Presence |
-| 15th | Combat Maneuver Dice, Will of Steel |
+| 15th | Combat Maneuver Dice, Impregnable Resolve |
 
 ### Creed Spells
 *3rd level Frontline Commander feature*
@@ -417,20 +417,36 @@ You have four superiority dice, which are d8s. A superiority die is expended whe
 
 You gain another superiority die at 11th level and one more at 15th level.
 
+### Unwavering Presence
+*11th level Frontline Commander feature*
+
+Allies accustomed to facing mortal danger alongside you dig deep and tap into an inner toughness upon hearing your command shouts. For up to 1 minute or until they take advantage of this bonus, affected creatures gain the Relentless Endurance trait (the same as the half-orc racial trait).
+
+Once they have used the trait to avoid dropping to 0 hit points, affected creatures can't gain the benefit of your Unwavering Presence again until both you and they have completed long rests.
+
+### Impregnable Resolve
+*15th level Frontline Commander feature*
+
+Your mind is tempered and stands like an adamantine fortress against those who assail it. You become immune to being *charmed, confused, or stunned*. In addition, whenever you are targeted by or within the area of an effect that could confer any of those conditions or the *frightened* condition, you gain temporary hit points equal to your Tactician level.
+
 ---
 ## Magister
 description goes here
 
 - Focus your power! - Spell DC / damage shout
+- Breach/Reduce resistances?
+- Learn more wizard spells, or get more slots? "mystic arcanum" type boon?
+- teach spells to cadre members with spellcasting?
+- bonus rituals?
 
 **Magister Progression**
 
 | Tactician level | Spells |
 | :---: | :--- |
 | 3rd | Creed Spells, Creed Command, Cantrips |
-| 7th | Magister's Enforcers |
-| 11th |  |
-| 15th |  |
+| 7th | Magister's Enforcers, Supported Casting |
+| 11th | Apprentice, Breach Resistances |
+| 15th | Magister's Shroud |
 
 ### Creed Spells
 *3rd level Magister feature*
@@ -445,6 +461,14 @@ Starting at 3rd level when you select your creed, you gain access to additional 
 | 13th | *dimension door, elemental bane, polymorph* |
 | 17th | *arcane hand, conjure elemental, teleportation circle* |
 
+### Creed Command
+*3rd level Magister feature*
+
+At 3rd level, you gain an additional command shout unique to your creed, which does not count against your number of known command shouts.
+
+**Focus your power!**
+You drive your allies to pour more of their essence into their spellcasting. For up to 1 minute or until they take advantage of this bonus, affected creatures can cast one spell at a level 1 higher than the slot used.
+
 ### Cantrips
 *3rd level Magister feature*
 
@@ -454,6 +478,26 @@ You learn three cantrips from the wizard spell list. They count as tactician spe
 *7th level Magister feature*
 
 At 7th level, you gain access to another class of Sidekick: the Spellcaster. Specifically, you can recruit Spellcasters with the Mage spellcasting feature to fill open Sidekick slots.
+
+### Supported Casting
+*7th level Magister feature*
+
+
+
+### Apprentice
+*11th level Magister feature*
+
+
+
+### Breach Resistances
+*11th level Magister feature*
+
+
+
+### Magister's Shroud
+*15th level Magister feature*
+
+
 
 ---
 ## Savior
