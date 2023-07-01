@@ -505,18 +505,25 @@ You can use this ability a number of times equal to your Proficiency Bonus, and 
 
 Veteran magisters control the effectiveness of both their allies' and enemies' magic on the battlefield as a matter of course. 
 
-At 15th level, you can weave powerful magical protections into your command shouts. Creatures affected by this ability effectively gain Magic Resistance feature, gaining advantage on saving throws against spells and other magical effects for 1 minute or until they take advantage of this bonus.
+At 15th level, you can weave powerful magical protections into your command shouts. When you use a command shout, you can choose to also use this ability. Creatures affected by this ability effectively gain the Magic Resistance feature, gaining advantage on saving throws against spells and other magical effects for 1 minute or until they take advantage of this bonus.
+
+You can use this ability twice, and regain all uses of it upon completing a long rest.
 
 ---
 ## Savior
 description goes here
+
+- creed command: 
+- allies recovering from conditions due to your spells or shouts become immune to them for 24h
+	- "reassuring voice"; "persistent succor"
+- 
 
 **Savior Progression**
 
 | Tactician level | Spells |
 | :---: | :--- |
 | 3rd | Creed Spells, Creed Command, Cantrips |
-| 7th | Savior's Advisers |
+| 7th | Savior's Advisers,  |
 | 11th |  |
 | 15th |  |
 
