@@ -482,22 +482,30 @@ At 7th level, you gain access to another class of Sidekick: the Spellcaster. Spe
 ### Supported Casting
 *7th level Magister feature*
 
-
+Through your combined experience in command and spellcasting you synthesize a technique for use between magic users. When you or one of your cadre followers with the Spellcasting feature use the Help action on an ally within 5 feet, that Help action can be used to raise the effective level of a spell cast on that ally's turn by 1.
 
 ### Apprentice
 *11th level Magister feature*
 
+Spreading knowledge is often more useful than keeping it for yourself. At 11th level, your experience and observation of your cadre followers lets you teach them spells. 
 
+You can teach each cadre follower with the Spellcasting feature one spell that you know. Each such follower can be taught a different spell, which must be one level less than the highest spell level you have access to. Whenever your followers gain a level, you can replace the spell they've learned from you with a different one.
 
 ### Breach Resistances
 *11th level Magister feature*
 
+A leader's best course of action is often to set up their subordinates and allies to succeed. At 11th level you gain the ability to briefly disable a creature's resistances. 
 
+As an action, you can deliver a jolt of magical disruption to a creature within 60 feet of you that you can see. Until the end of your next turn, that creature loses any resistances it has to any types of damage.
+
+You can use this ability a number of times equal to your Proficiency Bonus, and you regain all uses upon completing a long rest.
 
 ### Magister's Shroud
 *15th level Magister feature*
 
+Veteran magisters control the effectiveness of both their allies' and enemies' magic on the battlefield as a matter of course. 
 
+At 15th level, you can weave powerful magical protections into your command shouts. Creatures affected by this ability effectively gain Magic Resistance feature, gaining advantage on saving throws against spells and other magical effects for 1 minute or until they take advantage of this bonus.
 
 ---
 ## Savior
