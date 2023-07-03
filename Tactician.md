@@ -119,7 +119,7 @@ You raise the fury in your allies and exhort them to charge the enemy! Affected 
 You urge your allies to focus their efforts and strike true against their targets. Until the end of your next turn, affected creatures get a bonus to attack rolls equal to your Proficiency Bonus.
 
 **Hold fast!**
-You demand that your allies cling to their purpose or will to survive and remain focused on the task at hand. For the next minute, affected creatures get a bonus to saving throws made to resist becoming **frightened**, or made to recover from being **frightened**.
+You demand that your allies cling to their purpose or will to survive and remain focused on the task at hand. For the next minute, affected creatures gain your Proficiency Bonus to saving throws made to resist becoming **frightened**, or made to recover from being **frightened**.
 
 **Stand tall!**
 You call to allies to prepare themselves to bring all their strength to bear. For up to 1 minute or until they succeed on a Strength ability check, skill check, or saving throw, affected creatures get a bonus to Strength ability checks, skill checks, and saving throws equal to your Proficiency Bonus.
@@ -515,17 +515,26 @@ description goes here
 
 - creed command: 
 - allies recovering from conditions due to your spells or shouts become immune to them for 24h
-	- "reassuring voice"; "persistent succor"
-- 
+	- "reassuring voice"; "persistent succor"; "emboldening succor"
+	- maybe give temp hp instead?
+- salve incarnate: cast lesser / greater restoration without using a slot
+- divine protectors:
+	- followers gain either lay on hands or divine smite; characters who aren't already casters gain smite slots according to the number of spell slots they would have if they were Spellcaster sidekicks
+- ordained purpose
+	- attach bless to command shouts?
+	- cast commune w/o material components, 1/LR
+- harbinger of prophecy
+	- treat Cha checks and saves lower than 9 as a 9?
+	- add Cha bonus to spell attack rolls, dc and damage
 
 **Savior Progression**
 
 | Tactician level | Spells |
 | :---: | :--- |
 | 3rd | Creed Spells, Creed Command, Cantrips |
-| 7th | Savior's Advisers,  |
-| 11th |  |
-| 15th |  |
+| 7th | Savior's Advisers, Salve Incarnate |
+| 11th | Divine Protectors, Ordained Purpose |
+| 15th | Harbinger of Prophecy |
 
 ### Creed Spells
 *3rd level Savior feature*
@@ -540,6 +549,14 @@ Starting at 3rd level when you select your creed, you gain access to additional 
 | 13th | *aura of life, banishment, guardian of faith* |
 | 17th | *dawn, hallow, holy weapon* |
 
+### Creed Command
+*3rd level Savior feature*
+
+At 3rd level, you gain an additional command shout unique to your creed, which does not count against your number of known command shouts.
+
+**Righteous purpose protects you!**
+You embolden your allies with the knowledge that a higher power is watching over them. For up to 1 minute or until they take advantage of this bonus, affected allies gain the benefits of the *sanctuary* spell.
+
 ### Cantrips
 *3rd level Magister feature*
 
@@ -550,6 +567,33 @@ You learn three cantrips from the cleric spell list. They count as tactician spe
 
 At 7th level, you gain access to another class of Sidekick: the Spellcaster. Specifically, you can recruit Spellcasters with the Healer spellcasting feature to fill open Sidekick slots.
 
+### Salve Incarnate
+*7th level Savior feature*
+
+As your sacred connection deepens you become able to perform miracles of healing with your touch. You can cast the spell *lesser restoration* once without spell using components or expending a spell slot. At 9th level, this feature improves so that you can instead cast *greater restoration* if you choose to.
+
+You can use this ability once, and regain all uses of it upon completing a long rest.
+
+### Divine Protectors
+*11th level Savior feature*
+
+Those who follow you begin to gain an ounce of divine favor as they strive to see your destiny fulfilled. When you engage in a long rest, you can grant any one of your cadre followers either the Lay on Hands or Divine Smite feature (the same as the Paladin class features). The following conditions apply:
+
+**Lay on Hands**
+- The characters granted Lay on Hands retain the feature until they expend the entirety of their healing pool.
+- The healing pool for this version of Lay on Hands does not refill upon completing any rest.
+- 
+
+### Ordained Purpose
+*11th level Savior feature*
+
+
+
+### Harbinger of Prophecy
+*15th level Savior feature*
+
+
+
 ---
 # Tactician spell list
 ---
@@ -557,7 +601,7 @@ At 7th level, you gain access to another class of Sidekick: the Spellcaster. Spe
 *Alarm, ceremony, command, compelled duel, comprehend languages, detect poison and disease, expeditious retreat, gift of alacrity, heroism, identify, jump, longstrider, protection from evil and good*
 
 ## 2nd level spells
-*Aid, arcane lock, calm emotions, cordon of arrows, detect thoughts, enhance ability, enthrall, find steed, find traps, fortune's favor, gift of gab, hold person, knock, lesser restoration, magic weapon, mind spike, silence, suggestion, warding bond, zone of truth*
+*Aid, arcane lock, calm emotions, cordon of arrows, detect thoughts, enhance ability, enthrall, find steed, find traps, fortune's favor, gift of gab, hold person, knock, magic weapon, mind spike, silence, suggestion, warding bond, zone of truth*
 
 ## 3rd level spells
 *Beacon of hope, conjure barrage, crusader's mantle, dispel magic, elemental weapon, haste, motivational speech, remove curse, sending, tongues*
@@ -566,4 +610,4 @@ At 7th level, you gain access to another class of Sidekick: the Spellcaster. Spe
 *Aura of purity, charm monster, compulsion, confusion, death ward, divination, dominate beast, faithful hound, find greater steed, freedom of movement, galder's speedy courier, locate creature, private sanctum*
 
 ## 5th level spells
-*Conjure volley, dispel evil and good, dominate person, geas, greater restoration, hold monster, legend lore, mislead, modify memory, skill empowerment, steel wind strike, telepathic bond*
+*Conjure volley, dispel evil and good, dominate person, geas, hold monster, legend lore, mislead, modify memory, skill empowerment, steel wind strike, telepathic bond*
