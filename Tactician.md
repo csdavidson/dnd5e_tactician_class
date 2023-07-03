@@ -580,9 +580,11 @@ You can use this ability once, and regain all uses of it upon completing a long 
 Those who follow you begin to gain an ounce of divine favor as they strive to see your destiny fulfilled. When you engage in a long rest, you can grant any one of your cadre followers either the Lay on Hands or Divine Smite feature (the same as the Paladin class features). The following conditions apply:
 
 **Lay on Hands**
-- The characters granted Lay on Hands retain the feature until they expend the entirety of their healing pool.
-- The healing pool for this version of Lay on Hands does not refill upon completing any rest.
-- 
+- Characters granted Lay on Hands in this way have a healing pool equal to 5 x their Sidekick level.
+
+**Divine Smite**
+- Characters who gain Divine Smite this way use their existing spellcasting slots, if they have them.
+- Characters without existing spell slots gain access to slots for Divine Smite as if they were 1/2 their current level in the Spellcaster sidekick class.
 
 ### Ordained Purpose
 *11th level Savior feature*
